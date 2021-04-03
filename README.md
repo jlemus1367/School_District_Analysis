@@ -11,6 +11,10 @@ In the school district analysis, we analyzed school performance based on standar
   - The percent of students passing reading decreased by 0.3%
   - The overall passing percent decreased by 0.1%
 
+### Original School Summary Data Frame:
+![](images/OG_school_summary.png)
+### New School Summary Data Frame: 
+![](images/new_school_summary.png)
 - Effect on school summary
   - The average math score for Thomas High School decreased by 0.07, while the average reading score increased by 0.05
 
