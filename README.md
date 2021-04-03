@@ -43,4 +43,7 @@ In the school district analysis, we analyzed school performance based on standar
       - <img src = "images/new_type.png" width = 700>
 
 ## Summary
+After removing the compromised ninth-grade data from the analysis, we lost a considerable amount of information. By replacing those scores with null values, we excluded 461 students and their data from the analysis:
+![](images/fig2.png)
+The overall passing percentage, percent passing math, and percent passing reading also significantly declined when we created the new school summary data frame. If we had not created a new data frame to only include the rows of data of 10th-12th graders, Thomas High School could be considered a struggling school. Furthermore, the charter school metrics in the school type data frame would probably decrease. Leaving the null values in the analysis could ultimately reduce all ninth graders' performance metrics in the district. Such results could hamper the academic and financial planning for the school district as a whole. 
 
