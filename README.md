@@ -37,9 +37,9 @@ In the school district analysis, we analyzed school performance based on standar
   - The original and adjusted data frames contained the same information after rounding to the district standard.
 - Scores by school type
   - The original and adjusted data frames contained the same information after rounding to the district standard. Changes in values before formatting were negligible.
-    - Original: 
+  - Original: 
       - <img src = "images/old_type.png" width = 700>
-    - New: 
+  - Adjusted: 
       - <img src = "images/new_type.png" width = 700>
 
 ## Summary
